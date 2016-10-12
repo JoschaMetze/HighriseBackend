@@ -17,7 +17,8 @@
     "Swashbuckle": "6.0.0-beta902",
     "Microsoft.AspNet.WebApi.Client": "5.2.3",
     "System.Xml.XPath.XDocument": "4.0.1",
-    "Microsoft.AspNetCore.Cors": "1.0.0"
+    "Microsoft.AspNetCore.Cors": "1.0.0",
+    "Mindscape.Raygun4Net.AspNetCore": "5.3.2"
   },
 
   "tools": {
